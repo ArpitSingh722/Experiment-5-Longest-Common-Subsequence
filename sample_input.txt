@@ -1,0 +1,2 @@
+First sequence: ABCBDAB
+Second sequence: BDCABA

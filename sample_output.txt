@@ -1,0 +1,4 @@
+One valid Longest Common Subsequence: BCBA
+Length of LCS: 4
+
+Note: More than one valid LCS may exist for the same input.
